@@ -658,7 +658,7 @@ html {
 }
 
 .page2 p:nth-of-type(4) {
-
+    height: 0.1rem;
     width: 4rem;
     top: 1.7rem;
     left: 1.8rem;
