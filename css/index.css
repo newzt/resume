@@ -577,7 +577,7 @@ html {
     background-size: cover;
 }
 
-.page2 img {
+.page2 img,.page2 p{
     position: absolute;
     opacity: 0;
 }
@@ -617,12 +617,8 @@ html {
     height: 3.6rem;
 }
 
-.page2 p {
-    opacity: 0;
-}
 
 .page2 p:nth-of-type(1) {
-    position: absolute;
     top: .6rem;
     left: .6rem;
     z-index: 1;
@@ -639,7 +635,6 @@ html {
 }
 
 .page2 p:nth-of-type(2) {
-    position: absolute;
     top: .7rem;
     left: .9rem;
     width: 2.1rem;
@@ -650,8 +645,6 @@ html {
 }
 
 .page2 p.line {
-    opacity: 0;
-    position: absolute;
     width: 5rem;
     height: .03rem;
     background: #000;
@@ -662,16 +655,16 @@ html {
 }
 
 .page2 p:nth-of-type(4) {
-    position: absolute;
+
     width: 4rem;
     top: 1.7rem;
     left: 1.8rem;
 }
 
 .page2 p:nth-of-type(5) {
-    position: absolute;
-    top: 3rem;
-    left: 1rem;
+
+    top: 24%;
+    left: 8%;
     transform: rotate(-12deg);
     -webkit-transform: rotate(-12deg);
 }
