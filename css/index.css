@@ -592,14 +592,15 @@ html {
     left: 2.25rem;
     width: 1.64rem;
     height: 1.85rem;
-    bottom: 2.5rem;
+    bottom: 21%;
 }
 
 .page2 img:nth-child(3) {
     left: 1rem;
     width: 1.60rem;
     height: 1.45rem;
-    bottom: 2.6rem;
+    bottom: 23%;
+
 }
 
 .page2 img:nth-child(4) {
@@ -766,14 +767,14 @@ html {
     left: 2.25rem;
     width: 1.64rem;
     height: 1.85rem;
-    bottom: 2.5rem;
+    bottom: 21%;
 }
 
 .page3 img:nth-child(3) {
     left: 1rem;
     width: 1.60rem;
     height: 1.45rem;
-    bottom: 2.6rem;
+    bottom: 23%;
 }
 
 .page3 img:nth-child(4) {
