@@ -830,7 +830,7 @@ html {
 
 .page3 p:nth-of-type(4) {
     position: absolute;
-    height: .04rem;
+    height: .01rem;
     width: 4rem;
     top: 1.7rem;
     left: 1.8rem;
